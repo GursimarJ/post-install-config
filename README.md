@@ -268,7 +268,7 @@ Admin Panel -> Manage -> Help Topics<br />
 <br />
 <p>
 <h3 align="center">
-  After this walkthrough, we now have a configuration that allows us to get started in handling user tickets.
+  After this walkthrough, we now have a configuration that allows us to get started with handling user tickets.
   </h3>
 </p>
 
