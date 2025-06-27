@@ -8,7 +8,8 @@ This walkthrough involves some configuration of the open-source help desk ticket
 
 <h2>Environments Used</h2>
 
-- Microsoft Azure 
+- Microsoft Azure
+- macOS (Host Machine)
 - Windows 10
 - Windows App (Remote Desktop)
 
